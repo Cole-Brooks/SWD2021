@@ -1,0 +1,5 @@
+/**
+ * simple driver program for the client side of the modify file program. note that the server must be
+ * running when this is ran so that the client has something to connect to. It will die immediately without the
+ * server being up and running. Test stufff for fun
+ */
